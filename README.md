@@ -25,7 +25,7 @@ I've found about this project here [https://code.google.com/archive/p/eclipse2id
 anymore, since the Google Code service was shut down in 2015.
 I've anyway found references to the original project by other people that have already cloned it and shared it on GitHub before me.
 
-## Licence
+## License
 
 Back in the Google Code Archive it was labeled under ___Apache License 2.0___.
 
