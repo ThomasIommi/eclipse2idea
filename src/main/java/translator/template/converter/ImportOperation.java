@@ -51,7 +51,7 @@ class ImportOperation extends AbstractOperation {
             String className = StringUtils.substringAfterLast(fqClassName, ".");
 
             //body = StringUtils.replace(body, className, fqClassName);
-            body = body.replaceAll(className+"(?=([^a-zA-Z0-9]))", fqClassName);
+            body = body.replaceAll("(?<![a-zA-Z0-9])"+className+"(?=([^a-zA-Z0-9]|$))", fqClassName);
             LOG.debug("Replaced all occurances of {} class with FQ name {}", className,
                       fqClassName);
         }

@@ -23,7 +23,8 @@ All credits for the original project goes to Alexander (__malkolm__) Krasnukhin.
 
 I've found about this project here [https://code.google.com/archive/p/eclipse2idea/](), but it seems not to be available
 anymore, since the Google Code service was shut down in 2015.
-I've anyway found references to the original project by other people that have already cloned it and shared it on GitHub before me.
+I've anyway found references to the original project by other people that have already cloned it and shared it on GitHub
+before me.
 
 ## License
 
